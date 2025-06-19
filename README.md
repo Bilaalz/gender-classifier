@@ -14,10 +14,10 @@ The script trains and evaluates the following models on a small custom dataset:
 Each model predicts the gender of a new sample `[190cm, 70kg, 43 shoe size]` and reports its accuracy on the training data.
 
 ## 📈 Sample Output
-Decision Tree Prediction: male | Accuracy: 1.0
-KNN Prediction: male | Accuracy: 0.91
-SVM Prediction: female | Accuracy: 0.82
-Naive Bayes Prediction: male | Accuracy: 0.91
+- Decision Tree Prediction: male | Accuracy: 1.0
+- KNN Prediction: male | Accuracy: 0.72
+- SVM Prediction: male | Accuracy: 0.54
+- Naive Bayes Prediction: male | Accuracy: 0.81
 
 ## 📚 What I Learned
 
